@@ -1,0 +1,2 @@
+
+W = SCREEN_WIDTH // 2

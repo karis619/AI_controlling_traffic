@@ -1,0 +1,6 @@
+TRAFFIC CONTROL COMPARISON SUMMARY
+==================================================
+
+AI Average Waiting Time: 293.35 steps
+Normal Average Waiting Time: 4.99 steps
+Total Simulation Steps: 2000
